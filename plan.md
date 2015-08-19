@@ -8,3 +8,9 @@
 6. quantile of quantitative variables
 7. Missing values (by column and row)
 8. Size
+
+## Potential Exports
+- Screen (duh)
+- File 
+- .md?
+- .html?
